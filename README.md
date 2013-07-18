@@ -3,7 +3,7 @@ RoboGuice
 
 <img src="http://f.cl.ly/items/1G3K1n2L3g452n3i1M2q/roboguice-200px.png" align="left" />
 
-a application framework name RoboGuice!!!the origin address:[RoboGuice](https://github.com/roboguice/roboguice)!
+a application framework name RoboGuice!!!FORK FROM [RoboGuice](https://github.com/roboguice/roboguice)!
 
 ### Google Guice on Android, version 2.0
 
